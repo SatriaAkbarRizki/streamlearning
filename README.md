@@ -1,3 +1,3 @@
 # streamexample
 
-A new Flutter project.
+A old Flutter project.
